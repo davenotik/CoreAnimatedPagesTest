@@ -1,4 +1,4 @@
-name: CoreAnimatedPagesTest
+name: polymertest
 version: 0.0.2
 dependencies:
   polymer: ">=0.13.0 <0.14.0"
