@@ -1,0 +1,10 @@
+name: CoreAnimatedPagesTest
+version: 0.0.2
+dependencies:
+  polymer: ">=0.13.0 <0.14.0"
+  core_elements: ">=0.2.0+1 <0.3.0"
+  paper_elements: ">=0.1.1+2 <0.2.0"
+transformers:
+- polymer:
+    entry_points:
+    - web/index.html
